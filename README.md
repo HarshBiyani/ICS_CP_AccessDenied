@@ -31,14 +31,15 @@ The code includes the following functions:
 2. Compile the C code using a C compiler (e.g., gcc).
 3. Run the compiled executable file and follow the on-screen instructions to select the desired matrix operation and input matrices or matrix dimensions.
 
+
 ## Example Usage
 Here's an example of how to use the code:
 - Compile the code using a C compiler:
-  
+  ```bash
   gcc matrix_operations.c -o matrix_operations
 Run the executable:
 ./matrix_operations
 
 Follow the menu instructions to choose a matrix operation and input matrices or matrix dimensions.
-##Contribution
+## Contribution
 If you would like to contribute to this project, please fork the repository and create a pull request. Your contributions are welcome!

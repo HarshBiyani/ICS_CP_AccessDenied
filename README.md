@@ -7,7 +7,8 @@ This repository contains C code for performing various operations on matrices. I
 - [Introduction]
 - [Functions]
 - [How to Use]
-- [Example Usage]
+- [Contribution]
+
 
 ## Introduction
 The C code provided here allows users to perform a wide range of matrix operations conveniently. These operations are commonly used in various mathematical and scientific applications.
@@ -25,6 +26,20 @@ The code includes the following functions:
 - `multiplication`: Performs matrix multiplication.
 - `trace`: Computes the trace of a square matrix.
 - `transpose`: Calculates the transpose of a matrix.
+## Initial Setup
+Clone the repository to your local machine.
+
+git clone https://github.com/HarshBiyani/ICS_CP_AccessDenied.git
+
+Navigate to the project directory.
+
+cd ICS_CP_AccessDenied
+
+- Compile the code using a C compiler:
+  ```bash
+  gcc B23CS1019_B23EE1035_B23ME1059.c -o matrix_operations
+Run the executable:
+./matrix_operations
 
 ## How to Use
 1. Clone the repository or download the source code files.
@@ -32,14 +47,5 @@ The code includes the following functions:
 3. Run the compiled executable file and follow the on-screen instructions to select the desired matrix operation and input matrices or matrix dimensions.
 
 
-## Example Usage
-Here's an example of how to use the code:
-- Compile the code using a C compiler:
-  ```bash
-  gcc B23CS1019_B23EE1035_B23ME1059.c -o matrix_operations
-Run the executable:
-./matrix_operations
-
-Follow the menu instructions to choose a matrix operation and input matrices or matrix dimensions.
 ## Contribution
 If you would like to contribute to this project, please fork the repository and create a pull request. Your contributions are welcome!

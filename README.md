@@ -36,7 +36,7 @@ The code includes the following functions:
 Here's an example of how to use the code:
 - Compile the code using a C compiler:
   ```bash
-  gcc matrix_operations.c -o matrix_operations
+  gcc B23CS1019_B23EE1035_B23ME1059.c -o matrix_operations
 Run the executable:
 ./matrix_operations
 

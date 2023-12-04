@@ -28,13 +28,13 @@ The code includes the following functions:
 - `transpose`: Calculates the transpose of a matrix.
 ## Initial Setup
 Clone the repository to your local machine.
-
+```bash
 git clone https://github.com/HarshBiyani/ICS_CP_AccessDenied.git
-
+```
 Navigate to the project directory.
-
+```bash
 cd ICS_CP_AccessDenied
-
+```
 - Compile the code using a C compiler:
   ```bash
   gcc B23CS1019_B23EE1035_B23ME1059.c -o matrix_operations

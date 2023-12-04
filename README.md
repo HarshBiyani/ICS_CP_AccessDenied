@@ -6,7 +6,7 @@ This repository contains C code for performing various operations on matrices. I
 ## Table of Contents
 - [Introduction]
 - [Functions]
-- [How to Use]
+- [Initial Setup]
 - [Contribution]
 
 
@@ -39,8 +39,9 @@ cd ICS_CP_AccessDenied
   ```bash
   gcc B23CS1019_B23EE1035_B23ME1059.c -o matrix_operations
 Run the executable:
+```bash
 ./matrix_operations
-
+```
 ## How to Use
 1. Clone the repository or download the source code files.
 2. Compile the C code using a C compiler (e.g., gcc).
